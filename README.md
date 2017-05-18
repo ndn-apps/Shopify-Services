@@ -1,4 +1,4 @@
-# Shopify Services form NDNAPPS
+# Shopify Services from NDNAPPS
 Let NDNAPPS create a Shopify custom store design with Shopify SEO and Marketing features for you!!!
 
 We offer Shopify Development Services to help the customers in managing their product inventory, address sales and online inquiry issues.
