@@ -33,6 +33,6 @@ We offer Shopify Development Services to help the customers in managing their pr
 - MailChimp set-up
 - Customer information forms
 
-Please contact us if you have any requirement: https://ndnapps.com/services/
+Please contact us if you have any requirement: <a href="https://ndnapps.com/services/">Shopify Services from NDNAPPS</a> 
 
 Read more: https://ndnapps.com/shopify-tutorial/ / https://ndnapps.com/shopify-tips-tricks/
